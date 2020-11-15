@@ -303,3 +303,5 @@
 779	CCTV4 (SD)
 800	MEO Radios
 803	Jogos
+# git clone https://gist.github.com/serrasqueiro/4537fea8688ee2712171dd71c5684079
+# git@gist.github.com:4537fea8688ee2712171dd71c5684079.git
