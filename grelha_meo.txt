@@ -1,21 +1,21 @@
 # channel number <tab> description
-1	RTP1 (HD)
-2	RTP2 (HD)
-3	SIC (HD)
-4	TVI (HD)
-5	SIC Noticias (HD)
+1	RTP1
+2	RTP2
+3	SIC
+4	TVI
+5	SIC Noticias
 6	RTP 3 (H)
-7	TVI24 (HD)
-8	CMTV (HD)
-9	SIC Mulher (HD)
-10	Globo (HD)
-11	11 (HD)
-12	TVI Ficcao (HD)
-13	A Bola TV (HD)
-14	Sport TV + HD
-15	Porto Canal (HD)
+7	CNN Portugal
+8	CMTV
+9	SIC Mulher
+10	Globo
+11	11
+12	TVI Ficcao
+13	A Bola TV
+14	Sport TV+
+15	Porto Canal
 16	Slide Promocional
-17	Veja (HD)
+17	Veja
 18	RTP Acores (SD)
 19	RTP Madeira (SD)
 20	Sport TV1 (SD)
@@ -80,7 +80,7 @@
 100	RTP Memoria (SD)
 101	Q (HD)
 102	Q Play
-105	SIC Radical (HD)
+105	SIC Radical
 106	MTV Portugal (HD)
 107	Blaze HD
 108	Fuel TV (HD)
